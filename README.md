@@ -8,6 +8,10 @@
 
 [Download & website](https://shihabal3amri.github.io/DiPlay/) · [Release](https://github.com/shihabal3amri/DiPlay/releases/tag/v0.2.19) · [Report a problem](https://github.com/shihabal3amri/DiPlay/issues/new/choose)
 
+## Download this fork's APK
+
+**[Open the successful APK build on GitHub Actions](https://github.com/Aaditya-N/Android-8-DiPlay/actions/runs/38369107815)**, then scroll to **Artifacts** and download **DiPlay-debug-APKs**. Extract the ZIP and install the APK for your device. This is a debug build from this fork, not an official DiPlay release. GitHub Actions artifacts expire after 14 days; run the workflow again to create a fresh download.
+
 ![DiPlay home](site/assets/home.png)
 
 ## 0.2.19 — public preview
